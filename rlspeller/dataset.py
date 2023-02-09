@@ -7,8 +7,17 @@ from fastpitch.common.text.text_processing import TextProcessor
 
 class SpellerDataset(torch.utils.data.Dataset):
     """
+    Dataset for training a speller model.  
+    The dataset contains a list of words and their word-aligned mel spectrograms.
+
         1) loads word + word-aligned mel spec for all words in a wordlist
         2) converts text to sequences of one-hot vectors (corresponding to grapheme indices in fastpitch)
+        3) returns a dict containing: 
+            - word
+            - encoded word
+            - mel filepath
+            - mel
+            That is used to train the word-level speller model
     """
 
     def __init__(
