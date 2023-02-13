@@ -54,6 +54,7 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
+
 speechbrain/lobes/__pycache__/augment.cpython-38.pyc
 speechbrain/lobes/__pycache__/features.cpython-38.pyc
 speechbrain/lobes/models/__pycache__/CRDNN.cpython-38.pyc
