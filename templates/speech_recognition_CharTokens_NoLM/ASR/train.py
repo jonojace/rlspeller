@@ -154,6 +154,7 @@ class ASR(sb.Brain):
         """
         wavs, wav_lens = wavs
 
+        dump_feats = False
         if hasattr(self.hparams, "dump_feats"):
             if self.hparams.dump_feats:
                 dump_feats = True

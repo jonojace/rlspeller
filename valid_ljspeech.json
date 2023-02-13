@@ -1,0 +1,1637 @@
+{
+  "LJ014-0300": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ014-0300.wav",
+    "length": 7.727755102040816,
+    "words": "sentence of death had been recorded against donovan who like watts had seemingly been overcome with sudden despair"
+  },
+  "LJ018-0354": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ018-0354.wav",
+    "length": 3.2695238095238097,
+    "words": "doubts were long entertained whether thomas wainwright"
+  },
+  "LJ049-0037": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ049-0037.wav",
+    "length": 6.0791383219954644,
+    "words": "in contrast the vice presidential vehicle although not specially designed for that purpose"
+  },
+  "LJ045-0166": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ045-0166.wav",
+    "length": 9.34154195011338,
+    "words": "he repeated this not once but several times but i refused and he said that once again i was preferring my friends to him and that i didn t need him"
+  },
+  "LJ005-0178": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ005-0178.wav",
+    "length": 3.165034013605442,
+    "words": "many of them consisted of one or two rooms at most"
+  },
+  "LJ012-0287": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ012-0287.wav",
+    "length": 7.263356009070295,
+    "words": "on the other hand it was adduced in evidence that misess gale had been at his lodgings the very day after the murder"
+  },
+  "LJ022-0181": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ022-0181.wav",
+    "length": 5.254829931972789,
+    "words": "but that its resources be most fully utilized in the economic life of the country"
+  },
+  "LJ016-0182": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ016-0182.wav",
+    "length": 5.997868480725623,
+    "words": "he was a shoemaker by trade and settled in london after his marriage in eighteen twenty five"
+  },
+  "LJ004-0105": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ004-0105.wav",
+    "length": 7.414285714285715,
+    "words": "two or more justices were appointed visitors of prisons and directed to visit and inspect three times every quarter"
+  },
+  "LJ044-0162": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ044-0162.wav",
+    "length": 9.446031746031746,
+    "words": "i only know that his basic desire was to get to cuba by any means and that all the rest of it was window dressing for that purpose end quote"
+  },
+  "LJ016-0187": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ016-0187.wav",
+    "length": 3.5017233560090704,
+    "words": "the other accepted and they got into conversation"
+  },
+  "LJ049-0153": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ049-0153.wav",
+    "length": 7.9019047619047615,
+    "words": "the secret service was organized as a division of the department of the treasury in eighteen sixty five to deal with counterfeiting"
+  },
+  "LJ010-0298": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ010-0298.wav",
+    "length": 3.7803628117913832,
+    "words": "that of fauntleroy the banker in eighteen twenty four"
+  },
+  "LJ031-0008": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ031-0008.wav",
+    "length": 7.959954648526077,
+    "words": "meanwhile chief curry ordered the police base station to notify parkland hospital that the wounded president was en route"
+  },
+  "LJ048-0207": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ048-0207.wav",
+    "length": 7.611655328798186,
+    "words": "there were several secret service agents in it who shared the responsibility of scanning the windows of nearby buildings"
+  },
+  "LJ048-0097": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ048-0097.wav",
+    "length": 5.696009070294784,
+    "words": "and had also scheduled visits to other parts of the country immediately before the texas trip"
+  },
+  "LJ024-0111": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ024-0111.wav",
+    "length": 3.2114739229024942,
+    "words": "the legislation demanded by the mandate"
+  },
+  "LJ028-0455": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ028-0455.wav",
+    "length": 4.349251700680272,
+    "words": "it seems that the circuit of the outer wall was about eleven miles"
+  },
+  "LJ032-0201": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ032-0201.wav",
+    "length": 5.614739229024943,
+    "words": "and issues of two newspapers later identified as the worker and the militant"
+  },
+  "LJ037-0248": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ037-0248.wav",
+    "length": 3.6062131519274376,
+    "words": "the eyewitnesses vary in their identification of the jacket"
+  },
+  "LJ046-0082": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ046-0082.wav",
+    "length": 6.264897959183673,
+    "words": "must depend upon the utmost cooperation and understanding from the public and the president"
+  },
+  "LJ004-0035": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ004-0035.wav",
+    "length": 5.823718820861678,
+    "words": "the borough jails those in fact under corporate management were not included in the new measures"
+  },
+  "LJ010-0081": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ010-0081.wav",
+    "length": 2.7122448979591836,
+    "words": "one of the conspirators by name edwards"
+  },
+  "LJ048-0024": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ048-0024.wav",
+    "length": 6.009478458049887,
+    "words": "he had come back to dallas hosty had established that he had a job he was working"
+  },
+  "LJ038-0219": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ038-0219.wav",
+    "length": 8.749433106575964,
+    "words": "would be consistent with the period when the oswalds were living on neely street since the apartment was rented on march three nineteen sixty three"
+  },
+  "LJ049-0187": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ049-0187.wav",
+    "length": 6.706077097505669,
+    "words": "these proposals included suggestions to locate exclusive responsibility for all phases of the work"
+  },
+  "LJ019-0212": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ019-0212.wav",
+    "length": 9.829160997732426,
+    "words": "the home secretary had laid it down that at least five acres would be indispensable and such an area it was impossible to obtain within the limits of the city"
+  },
+  "LJ046-0193": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ046-0193.wav",
+    "length": 4.929750566893424,
+    "words": "and twelve to fifteen of these cases as highly dangerous risks"
+  },
+  "LJ028-0518": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ028-0518.wav",
+    "length": 4.662721088435374,
+    "words": "it is not strange then that they were included among the seven wonders of the world"
+  },
+  "LJ018-0001": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ018-0001.wav",
+    "length": 7.692925170068027,
+    "words": "the chronicles of newgate volume two by arthur griffiths section twenty one newgate notorieties part two"
+  },
+  "LJ033-0079": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ033-0079.wav",
+    "length": 4.999410430839002,
+    "words": "sister of the man with whom oswald drove to work buell wesley frazier"
+  },
+  "LJ005-0024": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ005-0024.wav",
+    "length": 3.791972789115646,
+    "words": "he objected to the instruction of prisoners in reading and writing"
+  },
+  "LJ034-0042": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ034-0042.wav",
+    "length": 5.057460317460317,
+    "words": "that he could only testify with certainty that the print was less than three days old"
+  },
+  "LJ043-0147": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ043-0147.wav",
+    "length": 9.53891156462585,
+    "words": "he had left a note for his wife telling her what to do in case he were apprehended as well as his notebook and the pictures of himself holding the rifle"
+  },
+  "LJ042-0005": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ042-0005.wav",
+    "length": 6.891836734693878,
+    "words": "after oswald left the marine corps in september of nineteen fifty nine ostensibly to care for his mother"
+  },
+  "LJ042-0119": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ042-0119.wav",
+    "length": 4.906530612244898,
+    "words": "under the entry for august to september of that year he wrote quote"
+  },
+  "LJ017-0023": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ017-0023.wav",
+    "length": 7.05437641723356,
+    "words": "by putting arsenic in the dumplings she had prepared for them the charge rested entirely on circumstantial evidence"
+  },
+  "LJ025-0175": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ025-0175.wav",
+    "length": 5.997868480725623,
+    "words": "but its nitrogen is in the state of a free gas in which condition the bean can make no use of it"
+  },
+  "LJ019-0110": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ019-0110.wav",
+    "length": 5.0226303854875285,
+    "words": "field labor he urged and with reason was a very suitable employment"
+  },
+  "LJ017-0047": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ017-0047.wav",
+    "length": 7.05437641723356,
+    "words": "the rest of the available space was allotted by ticket to secure which the greatest influence was necessary"
+  },
+  "LJ018-0213": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ018-0213.wav",
+    "length": 6.2881179138322,
+    "words": "which in dramatic interest can compare with the conviction of william roupell for forgery"
+  },
+  "LJ007-0185": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ007-0185.wav",
+    "length": 9.863990929705215,
+    "words": "justified the original allegations it was impossible to deny the indiscriminate association the gambling drinking smoking quarreling in the jail"
+  },
+  "LJ029-0021": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ029-0021.wav",
+    "length": 5.301269841269841,
+    "words": "the three agreed that the president would come to texas in late november nineteen sixty three"
+  },
+  "LJ013-0098": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ013-0098.wav",
+    "length": 8.575283446712017,
+    "words": "mister oxenford having denied that he had made any transfer of stock the matter was at once put into the hands of the police"
+  },
+  "LJ019-0310": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ019-0310.wav",
+    "length": 5.649569160997732,
+    "words": "which had long been admitted as indispensable and had never as yet been properly obtained"
+  },
+  "LJ033-0145": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ033-0145.wav",
+    "length": 5.069070294784581,
+    "words": "may have been used to carry gun lieutenant j c day end quote"
+  },
+  "LJ016-0378": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ016-0378.wav",
+    "length": 1.5976870748299319,
+    "words": "and after sentence"
+  },
+  "LJ036-0144": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ036-0144.wav",
+    "length": 7.251746031746031,
+    "words": "he said quote yes sir that is right because that is the five hundred block of north beckley end quote"
+  },
+  "LJ050-0207": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ050-0207.wav",
+    "length": 4.894920634920635,
+    "words": "although chief rowley does not complain about the pay scale for secret service agents"
+  },
+  "LJ019-0336": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ019-0336.wav",
+    "length": 4.523401360544217,
+    "words": "his disciplinary powers were defined by the act and his duties"
+  },
+  "LJ035-0111": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ035-0111.wav",
+    "length": 8.099274376417233,
+    "words": "truly was probably correct in stating that the west elevator was on the fifth floor when he looked up the elevator shaft from the first floor"
+  },
+  "LJ018-0038": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ018-0038.wav",
+    "length": 6.90344671201814,
+    "words": "and muller at the time of his capture was actually wearing mister briggs hat cut down and somewhat altered"
+  },
+  "LJ047-0106": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ047-0106.wav",
+    "length": 9.515691609977324,
+    "words": "oswald quote was probably making a self serving statement in attempting to explain to me why he was distributing this literature and for no other reason"
+  },
+  "LJ021-0069": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ021-0069.wav",
+    "length": 8.633333333333333,
+    "words": "now it should not be expected that even employed labor and capital would be completely satisfied with present conditions"
+  },
+  "LJ039-0035": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ039-0035.wav",
+    "length": 4.685941043083901,
+    "words": "he was not actually planning to shoot mister nixon at that time in dallas"
+  },
+  "LJ007-0090": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ007-0090.wav",
+    "length": 8.110884353741497,
+    "words": "not only did their presence tend greatly to interfere with the discipline of the prison but their condition was deplorable in the extreme"
+  },
+  "LJ010-0192": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ010-0192.wav",
+    "length": 3.5017233560090704,
+    "words": "or of the fatal consequences which might have ensued"
+  },
+  "LJ007-0006": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ007-0006.wav",
+    "length": 3.0141043083900225,
+    "words": "they had introduced much order and cleanliness"
+  },
+  "LJ037-0177": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ037-0177.wav",
+    "length": 4.7556009070294785,
+    "words": "therefore either one bullet of remington peters manufacture is missing"
+  },
+  "LJ019-0325": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ019-0325.wav",
+    "length": 3.757142857142857,
+    "words": "the ministrations of ministers of their own form of belief"
+  },
+  "LJ024-0052": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ024-0052.wav",
+    "length": 6.3461678004535145,
+    "words": "in accordance with a clearly defined principle relating to a clearly defined age limit"
+  },
+  "LJ023-0031": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ023-0031.wav",
+    "length": 2.0620861678004534,
+    "words": "it was almost too late"
+  },
+  "LJ048-0253": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ048-0253.wav",
+    "length": 6.172018140589569,
+    "words": "the supervisor of each of the off duty agents who visited the press club or the cellar coffee house"
+  },
+  "LJ017-0066": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ017-0066.wav",
+    "length": 6.067528344671202,
+    "words": "yet he was silent when specifically pressed to confess that he had killed his wife and his brother"
+  },
+  "LJ040-0109": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ040-0109.wav",
+    "length": 5.440589569160998,
+    "words": "whatever problems may have been created by lees home life in louisiana and texas"
+  },
+  "LJ032-0245": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ032-0245.wav",
+    "length": 8.23859410430839,
+    "words": "moreover it was the only rifle owned by her husband following his return from the soviet union in june nineteen sixty two"
+  },
+  "LJ027-0010": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ027-0010.wav",
+    "length": 3.8964625850340138,
+    "words": "and all the rest are modifications from these few types"
+  },
+  "LJ019-0208": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ019-0208.wav",
+    "length": 7.774195011337868,
+    "words": "the proposal made was to purchase some fifty thousand square feet between newgate warwick lane and the sessions house"
+  },
+  "LJ021-0173": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ021-0173.wav",
+    "length": 9.225442176870748,
+    "words": "they would have you believe that england has made progress out of her depression by a do nothing policy by letting nature take her course"
+  },
+  "LJ012-0136": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ012-0136.wav",
+    "length": 3.153424036281179,
+    "words": "moss was known to be intimate with the elder caspar"
+  },
+  "LJ050-0061": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ050-0061.wav",
+    "length": 9.840770975056689,
+    "words": "b who have made threats of bodily harm against officials or employees of federal state or local government or officials of a foreign government"
+  },
+  "LJ028-0188": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ028-0188.wav",
+    "length": 5.928208616780045,
+    "words": "in five thirty eight the city fell and for a time it became the home of the persian king"
+  },
+  "LJ016-0419": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ016-0419.wav",
+    "length": 7.147256235827665,
+    "words": "kate webster who was tried at the central criminal court and passed through newgate although she suffered at wandsworth"
+  },
+  "LJ002-0014": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ002-0014.wav",
+    "length": 9.92204081632653,
+    "words": "the numbers soon increased however and by eighteen eleven had again risen to six hundred twenty nine and mister neild was told that there had been at one time"
+  },
+  "LJ018-0169": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ018-0169.wav",
+    "length": 8.911972789115646,
+    "words": "in one corner was a printing press actually in use and on it were twenty one forged bank of england notes without date or signature"
+  },
+  "LJ036-0096": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ036-0096.wav",
+    "length": 5.510249433106576,
+    "words": "because of the overwhelming evidence that oswald was far away from the building by that time"
+  },
+  "LJ032-0209": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ032-0209.wav",
+    "length": 9.887210884353742,
+    "words": "he stated however that while he quote found no differences end quote between the rifles in the two photographs he could not make a quote positive identification"
+  },
+  "LJ050-0173": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ050-0173.wav",
+    "length": 10.084580498866213,
+    "words": "that coordination might be achieved to a greater extent than seems now to be contemplated without interference with the primary mission of each agency involved"
+  },
+  "LJ028-0163": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ028-0163.wav",
+    "length": 5.301269841269841,
+    "words": "which are like the great gates in the outer wall of brass and open on the water"
+  },
+  "LJ043-0107": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ043-0107.wav",
+    "length": 4.4537414965986395,
+    "words": "upon moving to new orleans on april twenty four nineteen sixty three"
+  },
+  "LJ018-0300": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ018-0300.wav",
+    "length": 4.894920634920635,
+    "words": "the sums obtained by bidwell in the name of warren at the bank of england"
+  },
+  "LJ040-0074": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ040-0074.wav",
+    "length": 5.417369614512472,
+    "words": "about six months later she also withdrew john pic and robert oswald"
+  },
+  "LJ023-0047": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ023-0047.wav",
+    "length": 8.331473922902495,
+    "words": "the three horses are of course the three branches of government the congress the executive and the courts"
+  },
+  "LJ014-0129": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ014-0129.wav",
+    "length": 9.53891156462585,
+    "words": "the case rested upon the facts which have been already set forth and was proved to the satisfaction of the jury who brought in a verdict of guilty"
+  },
+  "LJ047-0020": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ047-0020.wav",
+    "length": 6.497097505668934,
+    "words": "until april nineteen sixty fbi activity consisted of placing in oswalds file"
+  },
+  "LJ008-0017": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ008-0017.wav",
+    "length": 6.473877551020408,
+    "words": "and when he evaded the sentence by suicide his body was exhibited in the same neighborhood"
+  },
+  "LJ013-0058": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ013-0058.wav",
+    "length": 8.900362811791384,
+    "words": "joshua fletcher a surgeon and three others were charged with forging wills for the purpose of obtaining unclaimed stock in the funds"
+  },
+  "LJ042-0143": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ042-0143.wav",
+    "length": 6.334557823129252,
+    "words": "during the period from november nineteen nineteen sixty two to march of nineteen sixty three"
+  },
+  "LJ047-0115": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ047-0115.wav",
+    "length": 6.508707482993198,
+    "words": "several days later the bureau received additional evidence that oswald had lied to agent quigley"
+  },
+  "LJ045-0202": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ045-0202.wav",
+    "length": 8.459183673469388,
+    "words": "he had great difficulty in establishing meaningful relations with other people except for his family he was completely alone"
+  },
+  "LJ041-0052": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ041-0052.wav",
+    "length": 5.951428571428571,
+    "words": "oswalds inability or lack of desire to enter into meaningful relationships with other people"
+  },
+  "LJ035-0205": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ035-0205.wav",
+    "length": 5.649569160997732,
+    "words": "and no one could be found who saw oswald anywhere else in the building until after the shooting"
+  },
+  "LJ004-0129": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ004-0129.wav",
+    "length": 3.0024943310657597,
+    "words": "many of the jails were in the most deplorable condition"
+  },
+  "LJ016-0412": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ016-0412.wav",
+    "length": 4.651111111111111,
+    "words": "wainwrights execution was within the jail but only nominally private"
+  },
+  "LJ005-0134": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ005-0134.wav",
+    "length": 7.089206349206349,
+    "words": "in twenty two county jails there were one thousand sixty three sleeping cells in all in eighteen twenty three"
+  },
+  "LJ049-0202": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ049-0202.wav",
+    "length": 2.096916099773243,
+    "words": "incident to its responsibilities"
+  },
+  "LJ019-0141": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ019-0141.wav",
+    "length": 6.822176870748299,
+    "words": "the old wards day rooms and sleeping rooms combined of which the reader has already heard so much"
+  },
+  "LJ019-0059": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ019-0059.wav",
+    "length": 3.130204081632653,
+    "words": "it was claimed for it that it was more deterrent"
+  },
+  "LJ038-0221": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ038-0221.wav",
+    "length": 4.685941043083901,
+    "words": "and the second months rent was paid on either april two or april three"
+  },
+  "LJ029-0059": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ029-0059.wav",
+    "length": 7.135646258503401,
+    "words": "dallas detectives in the lobby of the trade mart and in the luncheon area also had copies of these photographs"
+  },
+  "LJ008-0111": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ008-0111.wav",
+    "length": 4.465351473922903,
+    "words": "they entered a stone cold room and were presently joined by the prisoner"
+  },
+  "LJ028-0257": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ028-0257.wav",
+    "length": 6.624807256235828,
+    "words": "and in five twenty one nebuchadnezzar the third a native babylonian was placed on the throne"
+  },
+  "LJ045-0105": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ045-0105.wav",
+    "length": 2.503265306122449,
+    "words": "she testified that she told him quote"
+  },
+  "LJ014-0237": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ014-0237.wav",
+    "length": 3.791972789115646,
+    "words": "i will now pass to grave but less atrocious crimes"
+  },
+  "LJ010-0199": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ010-0199.wav",
+    "length": 6.427437641723356,
+    "words": "among his papers was found a curious document purporting to be the rules of an association called"
+  },
+  "LJ034-0107": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ034-0107.wav",
+    "length": 5.3244897959183675,
+    "words": "in his testimony before the commission brennan described the person he saw as quote"
+  },
+  "LJ015-0174": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ015-0174.wav",
+    "length": 5.278049886621315,
+    "words": "thither police officers followed only to find that he had returned to london"
+  },
+  "LJ034-0156": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ034-0156.wav",
+    "length": 7.97156462585034,
+    "words": "whether or not he could positively identify the man he saw in the sixth floor window as the same man he saw in the police station"
+  },
+  "LJ039-0221": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ039-0221.wav",
+    "length": 8.076054421768708,
+    "words": "the various tests showed that the mannlicher carcano was an accurate rifle and that the use of a four power scope"
+  },
+  "LJ015-0177": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ015-0177.wav",
+    "length": 7.240136054421769,
+    "words": "great excitement prevailed in the city and the west end when redpaths defalcations were made public"
+  },
+  "LJ013-0266": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ013-0266.wav",
+    "length": 5.8933786848072565,
+    "words": "good was committed to newgate and tried at the central criminal court before a crowded court"
+  },
+  "LJ048-0089": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ048-0089.wav",
+    "length": 4.209931972789116,
+    "words": "against the background of the critical events of november twenty two however"
+  },
+  "LJ047-0057": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ047-0057.wav",
+    "length": 9.863990929705215,
+    "words": "until march nineteen sixty three the fbi continued to accumulate information regarding oswald but engaged in no active investigation"
+  },
+  "LJ016-0205": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ016-0205.wav",
+    "length": 6.4622675736961455,
+    "words": "he received a retaining fee of five pounds five shillings with the usual guinea for each job"
+  },
+  "LJ037-0224": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ037-0224.wav",
+    "length": 9.898820861678004,
+    "words": "at one twenty two p m the dallas police radio described the man wanted for the murder of tippit as quote a white male about thirty"
+  },
+  "LJ032-0150": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ032-0150.wav",
+    "length": 9.562131519274377,
+    "words": "in the opinion of these experts it was not possible to estimate the time which elapsed between the placing of the print on the rifle and the date of the lift"
+  },
+  "LJ014-0256": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ014-0256.wav",
+    "length": 4.279591836734694,
+    "words": "it seems incredible that this passbook which when produced in court"
+  },
+  "LJ039-0176": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ039-0176.wav",
+    "length": 2.6077551020408163,
+    "words": "the angle from the first to the second shot"
+  },
+  "LJ036-0213": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ036-0213.wav",
+    "length": 5.011020408163265,
+    "words": "the mans general description was similar to the one broadcast over the police radio"
+  },
+  "LJ010-0309": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ010-0309.wav",
+    "length": 5.719229024943311,
+    "words": "during these numerous and trying difficulties it is mister fauntleroy who speaks"
+  },
+  "LJ014-0137": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ014-0137.wav",
+    "length": 2.1897959183673468,
+    "words": "when the judge assumed the black cap"
+  },
+  "LJ004-0088": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ004-0088.wav",
+    "length": 6.682857142857143,
+    "words": "as a remedy justices of the peace were empowered to provide materials for the setting of poor prisoners to work"
+  },
+  "LJ008-0207": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ008-0207.wav",
+    "length": 5.951428571428571,
+    "words": "and although one of these gave way owing to the extraordinary pressure no serious accident occurred"
+  },
+  "LJ016-0327": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ016-0327.wav",
+    "length": 5.672789115646259,
+    "words": "declared that they were not prepared to agree to the resolution respecting private executions"
+  },
+  "LJ011-0190": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ011-0190.wav",
+    "length": 6.857006802721089,
+    "words": "on arrival wakefield pretended that they had missed mister turner and must follow him over to france"
+  },
+  "LJ039-0004": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ039-0004.wav",
+    "length": 3.6178231292517005,
+    "words": "chapter four the assassin part eight"
+  },
+  "LJ048-0161": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ048-0161.wav",
+    "length": 6.740907029478458,
+    "words": "the chief of the service has provided the commission a detailed explanation of this policy quote"
+  },
+  "LJ035-0163": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ035-0163.wav",
+    "length": 8.50562358276644,
+    "words": "after leaving misess reid in the front office oswald could have gone down the stairs and out the front door by twelve thirty three p m"
+  },
+  "LJ022-0094": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ022-0094.wav",
+    "length": 7.716145124716554,
+    "words": "in whose field the project falls and also to notify another agency which i am creating a progress division"
+  },
+  "LJ049-0107": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ049-0107.wav",
+    "length": 2.9908843537414964,
+    "words": "or who hold important governmental posts"
+  },
+  "LJ035-0092": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ035-0092.wav",
+    "length": 5.312879818594104,
+    "words": "and this would be the minimum because i am sure that i you know it took me a little longer end quote"
+  },
+  "LJ048-0208": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ048-0208.wav",
+    "length": 7.646485260770975,
+    "words": "agent sorrels riding in the lead car did observe the texas school book depository building as he passed by"
+  },
+  "LJ038-0167": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ038-0167.wav",
+    "length": 9.202222222222222,
+    "words": "narrowly escaped death when a rifle bullet fired from outside his home passed near his head as he was seated at his desk"
+  },
+  "LJ016-0398": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ016-0398.wav",
+    "length": 1.574467120181406,
+    "words": "as a special favor"
+  },
+  "LJ037-0217": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ037-0217.wav",
+    "length": 6.8802267573696145,
+    "words": "police found an empty revolver holster when they searched oswalds room on beckley avenue after his arrest"
+  },
+  "LJ029-0086": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ029-0086.wav",
+    "length": 6.845396825396826,
+    "words": "once the trade mart had been selected sorrels and lawson worked out detailed arrangements for security at the building"
+  },
+  "LJ030-0249": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ030-0249.wav",
+    "length": 8.041224489795919,
+    "words": "reported that youngblood was in the rear seat using his body to shield the vice president before the second and third shots were fired"
+  },
+  "LJ029-0129": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ029-0129.wav",
+    "length": 4.465351473922903,
+    "words": "on this last portion of the journey only five minutes from the trade mart"
+  },
+  "LJ036-0132": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ036-0132.wav",
+    "length": 6.125578231292517,
+    "words": "driver will you call me a cab down here she had seen him get this cab and she wanted one too"
+  },
+  "LJ024-0034": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ024-0034.wav",
+    "length": 3.2927437641723354,
+    "words": "what do they mean by the words packing the court"
+  },
+  "LJ007-0029": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ007-0029.wav",
+    "length": 9.028072562358277,
+    "words": "the condition of the capitally convicted prisoners after sentence was still very disgraceful the side they occupied still known as the press yard"
+  },
+  "LJ013-0059": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ013-0059.wav",
+    "length": 1.7370068027210885,
+    "words": "there were two separate affairs"
+  },
+  "LJ018-0166": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ018-0166.wav",
+    "length": 3.0024943310657597,
+    "words": "buncher in london and griffiths in birmingham"
+  },
+  "LJ028-0459": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ028-0459.wav",
+    "length": 8.842312925170068,
+    "words": "its bricks measuring about thirteen inches square and three inches in thickness were burned and stamped with the usual short inscription"
+  },
+  "LJ040-0211": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ040-0211.wav",
+    "length": 5.37092970521542,
+    "words": "this would make him approximately ten well almost eleven years old end quote"
+  },
+  "LJ040-0228": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ040-0228.wav",
+    "length": 8.331473922902495,
+    "words": "despite his withdrawal he gives the impression that he is not so difficult to reach as he appears and patient prolonged effort"
+  },
+  "LJ050-0204": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ050-0204.wav",
+    "length": 2.747074829931973,
+    "words": "secret service personnel and facilities"
+  },
+  "LJ028-0472": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ028-0472.wav",
+    "length": 6.8802267573696145,
+    "words": "its outer part about twelve feet in width was protected with towers at intervals of sixty five feet"
+  },
+  "LJ022-0028": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ022-0028.wav",
+    "length": 4.30281179138322,
+    "words": "i am reminded sometimes of what president wilson once said"
+  },
+  "LJ039-0039": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ039-0039.wav",
+    "length": 5.87015873015873,
+    "words": "there is no question that in this incident it was a question of mister nixon end quote"
+  },
+  "LJ045-0026": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ045-0026.wav",
+    "length": 8.12249433106576,
+    "words": "the relations between lee and marina oswald are of great importance in any attempt to understand oswalds possible motivation"
+  },
+  "LJ034-0020": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ034-0020.wav",
+    "length": 3.1998639455782314,
+    "words": "the cartons were forwarded to the fbi in washington"
+  },
+  "LJ044-0156": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ044-0156.wav",
+    "length": 3.9312925170068027,
+    "words": "oswald apparently enclosed a note with her letter of july in which"
+  },
+  "LJ016-0363": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ016-0363.wav",
+    "length": 2.3639455782312924,
+    "words": "this feeling was the stronger because"
+  },
+  "LJ028-0335": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ028-0335.wav",
+    "length": 7.797414965986395,
+    "words": "accordingly they committed to him the command of their whole army and put the keys of their city into his hands"
+  },
+  "LJ015-0027": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ015-0027.wav",
+    "length": 4.384081632653062,
+    "words": "yet even so early as the death of the first sir john paul"
+  },
+  "LJ024-0004": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ024-0004.wav",
+    "length": 5.719229024943311,
+    "words": "it is simply this whenever a judge or justice of any federal court"
+  },
+  "LJ044-0119": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ044-0119.wav",
+    "length": 8.668163265306122,
+    "words": "into which oswald in his own words had quote thrown himself he sought advice from the central committee of the communist party u s a"
+  },
+  "LJ045-0017": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ045-0017.wav",
+    "length": 7.70453514739229,
+    "words": "this meeting preceded by one day the attack on a e stevenson at the united nations day meeting at which he spoke"
+  },
+  "LJ048-0066": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ048-0066.wav",
+    "length": 7.70453514739229,
+    "words": "the handbook referred thus to quote the possibility of an attempt against the person or safety of the president end quote"
+  },
+  "LJ001-0143": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ001-0143.wav",
+    "length": 6.1604081632653065,
+    "words": "for where these are boldly and carefully designed and each letter is thoroughly individual in form"
+  },
+  "LJ049-0081": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ049-0081.wav",
+    "length": 4.9878004535147396,
+    "words": "there was no federal criminal jurisdiction over the assassination of president kennedy"
+  },
+  "LJ038-0233": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ038-0233.wav",
+    "length": 9.376371882086168,
+    "words": "he showed her a notebook three days later containing photographs of general walkers home and a map of the area where the house was located"
+  },
+  "LJ037-0032": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ037-0032.wav",
+    "length": 3.0141043083900225,
+    "words": "benavides never saw oswald after the arrest"
+  },
+  "LJ013-0072": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ013-0072.wav",
+    "length": 2.7122448979591836,
+    "words": "it was shown that the will must be a forgery"
+  },
+  "LJ031-0081": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ031-0081.wav",
+    "length": 4.95297052154195,
+    "words": "president kennedy could have survived the neck injury but the head wound was fatal"
+  },
+  "LJ044-0063": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ044-0063.wav",
+    "length": 3.025714285714286,
+    "words": "and actually had only one thousand printed"
+  },
+  "LJ031-0073": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ031-0073.wav",
+    "length": 7.193696145124717,
+    "words": "according to doctor clark the small bullet hole on the right rear of the presidents head discovered during the subsequent autopsy"
+  },
+  "LJ043-0075": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ043-0075.wav",
+    "length": 8.993242630385488,
+    "words": "he indicated an interest in writing an employment counselor testified on the basis of a general aptitude test oswald had taken"
+  },
+  "LJ021-0102": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ021-0102.wav",
+    "length": 4.128662131519274,
+    "words": "if the codes which have been written have been too complicated"
+  },
+  "LJ016-0044": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ016-0044.wav",
+    "length": 5.7772789115646255,
+    "words": "and was compelled to work along the railing round three quarters of the square of the yard"
+  },
+  "LJ039-0214": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ039-0214.wav",
+    "length": 5.812108843537415,
+    "words": "in order to hit the intended object the scope would accomplish the lead for you end quote"
+  },
+  "LJ033-0039": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ033-0039.wav",
+    "length": 5.881768707482993,
+    "words": "and one which provided an excuse for the carrying of a bulky package the following morning"
+  },
+  "LJ024-0121": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ024-0121.wav",
+    "length": 6.322947845804989,
+    "words": "even if an amendment were passed and even if in the years to come it were to be ratified"
+  },
+  "LJ014-0240": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ014-0240.wav",
+    "length": 2.6774149659863946,
+    "words": "without capital and at railroad speed"
+  },
+  "LJ028-0328": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ028-0328.wav",
+    "length": 5.765668934240363,
+    "words": "whom darius according to agreement had sent first he fell upon them and slew them all"
+  },
+  "LJ018-0085": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ018-0085.wav",
+    "length": 6.752517006802721,
+    "words": "he would shoot any man or any policeman like a dog or any number of them who had treated him in that way"
+  },
+  "LJ047-0238": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ047-0238.wav",
+    "length": 9.016462585034013,
+    "words": "hosty parked his car in the basement of police headquarters and there met an acquaintance lieutenant jack revill of the dallas police force"
+  },
+  "LJ017-0168": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ017-0168.wav",
+    "length": 5.092290249433106,
+    "words": "but a long public discussion followed and in consequence he was reprieved"
+  },
+  "LJ048-0106": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ048-0106.wav",
+    "length": 8.784263038548753,
+    "words": "much of lawsons time was taken with establishing adequate security over the motorcade route and at the two places where the president would stop"
+  },
+  "LJ042-0059": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ042-0059.wav",
+    "length": 2.85156462585034,
+    "words": "despite this commitment to the soviet union"
+  },
+  "LJ043-0076": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ043-0076.wav",
+    "length": 8.23859410430839,
+    "words": "that he had some aptitude in that area quote because the verbal score is high and the clerical score is high end quote"
+  },
+  "LJ011-0132": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ011-0132.wav",
+    "length": 3.432063492063492,
+    "words": "except the forgery of wills and powers of attorney"
+  },
+  "LJ047-0017": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ047-0017.wav",
+    "length": 1.5860770975056688,
+    "words": "the file was opened quote"
+  },
+  "LJ033-0086": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ033-0086.wav",
+    "length": 7.112426303854876,
+    "words": "misess randle estimated that the package was approximately twenty eight inches long and about eight inches wide"
+  },
+  "LJ045-0185": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ045-0185.wav",
+    "length": 9.00485260770975,
+    "words": "he asked frazier for a ride to irving that night stating falsely that he wanted to pick up some curtain rods to put in an apartment"
+  },
+  "LJ044-0141": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ044-0141.wav",
+    "length": 9.074512471655328,
+    "words": "even though he had written four detailed letters since that time to mister v t lee and had also kept the national headquarters informed"
+  },
+  "LJ002-0317": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ002-0317.wav",
+    "length": 4.593061224489796,
+    "words": "and there were as many as three hundred and fifty prisoners in at one time"
+  },
+  "LJ006-0210": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ006-0210.wav",
+    "length": 4.244761904761905,
+    "words": "drink in more or less unlimited quantities was still to be had"
+  },
+  "LJ001-0122": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ001-0122.wav",
+    "length": 6.531927437641723,
+    "words": "that he has a five an eight or a three before him unless the press work is of the best"
+  },
+  "LJ034-0064": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ034-0064.wav",
+    "length": 8.540453514739228,
+    "words": "this finding in addition to the freshness of one of the prints and the presence of oswalds prints on two of the four cartons and the paper bag"
+  },
+  "LJ022-0086": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ022-0086.wav",
+    "length": 7.112426303854876,
+    "words": "to which all proposals for the expenditure of money must go for preliminary study and consideration"
+  },
+  "LJ040-0022": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ040-0022.wav",
+    "length": 2.5497052154195012,
+    "words": "indications of oswalds motivation"
+  },
+  "LJ006-0213": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ006-0213.wav",
+    "length": 5.707619047619048,
+    "words": "the quantity to be issued per head was limited by the prison regulations to one pint"
+  },
+  "LJ030-0226": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ030-0226.wav",
+    "length": 5.405759637188209,
+    "words": "who did not believe that he could reach the presidents car at the speed it was then traveling"
+  },
+  "LJ006-0071": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ006-0071.wav",
+    "length": 8.494013605442177,
+    "words": "no doubt the governor for the time being mister cope was in a great measure to blame for all this and for the want of proper classification"
+  },
+  "LJ016-0115": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ016-0115.wav",
+    "length": 6.067528344671202,
+    "words": "a sailor krapps by name occupied one of the upper cells in the new block"
+  },
+  "LJ008-0298": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ008-0298.wav",
+    "length": 2.1665759637188207,
+    "words": "sometimes the report was delayed"
+  },
+  "LJ029-0111": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ029-0111.wav",
+    "length": 7.507165532879819,
+    "words": "sorrels who had participated in presidential protection assignments in dallas since a visit by president franklin d roosevelt"
+  },
+  "LJ032-0275": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ032-0275.wav",
+    "length": 9.643401360544217,
+    "words": "the commission concluded that the rifle used to assassinate president kennedy and wound governor connally was owned and possessed by lee harvey oswald"
+  },
+  "LJ014-0239": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ014-0239.wav",
+    "length": 8.633333333333333,
+    "words": "which followed each other at no long intervals which had a strong family likeness and originated all of them to make money easily"
+  },
+  "LJ032-0168": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ032-0168.wav",
+    "length": 6.868616780045351,
+    "words": "there is no way however to eliminate the possibility of the fibers having come from another identical shirt end quote"
+  },
+  "LJ013-0138": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ013-0138.wav",
+    "length": 3.3391836734693876,
+    "words": "ashley was the son of an army agent and banker"
+  },
+  "LJ048-0074": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ048-0074.wav",
+    "length": 3.420453514739229,
+    "words": "to insure adequate and effective liaison arrangements"
+  },
+  "LJ014-0202": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ014-0202.wav",
+    "length": 2.8747845804988663,
+    "words": "one of them went into his cell just at dinner time"
+  },
+  "LJ018-0164": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ018-0164.wav",
+    "length": 8.296643990929706,
+    "words": "who had devoted all his talent and all his energies for some seventeen years to the fabrication of false bank notes"
+  },
+  "LJ002-0054": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ002-0054.wav",
+    "length": 7.716145124716554,
+    "words": "those who were the oldest offenders sentenced to transportation and who had narrowly escaped the penalty of death"
+  },
+  "LJ013-0203": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ013-0203.wav",
+    "length": 2.723854875283447,
+    "words": "on his removal to newgate after sentence"
+  },
+  "LJ038-0141": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ038-0141.wav",
+    "length": 3.2927437641723354,
+    "words": "therefore he made his weekly visit on thursday night"
+  },
+  "LJ034-0172": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ034-0172.wav",
+    "length": 9.480861678004535,
+    "words": "fischer looked up and watched the man in the window for ten or fifteen seconds and then started watching the motorcade which came into view on houston street"
+  },
+  "LJ014-0224": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ014-0224.wav",
+    "length": 6.9150566893424035,
+    "words": "as dwyer survived cannon escaped the death sentence which was commuted to penal servitude for life"
+  },
+  "LJ035-0118": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ035-0118.wav",
+    "length": 4.732380952380953,
+    "words": "they rushed to the west windows after the shots were fired and remained there"
+  },
+  "LJ025-0107": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ025-0107.wav",
+    "length": 3.3043537414965987,
+    "words": "they absorb oxygen and give out carbonic acid"
+  },
+  "LJ028-0112": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ028-0112.wav",
+    "length": 3.2927437641723354,
+    "words": "my father did that which no previous king had done"
+  },
+  "LJ040-0004": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ040-0004.wav",
+    "length": 8.586893424036282,
+    "words": "there is no evidence that he had accomplices or that he was involved in any conspiracy directed to the assassination of the president"
+  },
+  "LJ029-0163": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ029-0163.wav",
+    "length": 7.263356009070295,
+    "words": "and then west on main turning back to elm at houston and then out stemmons freeway to the trade mart"
+  },
+  "LJ019-0389": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ019-0389.wav",
+    "length": 2.723854875283447,
+    "words": "passed under the more direct control of the state"
+  },
+  "LJ015-0279": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ015-0279.wav",
+    "length": 3.3624036281179137,
+    "words": "one stroke of luck which he turned to great account"
+  },
+  "LJ035-0053": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ035-0053.wav",
+    "length": 2.3987755102040818,
+    "words": "the man turned and walked back toward baker"
+  },
+  "LJ017-0158": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ017-0158.wav",
+    "length": 6.8802267573696145,
+    "words": "she had a little fortune of her own some one thousand seven hundred pounds or one thousand eight hundred pounds"
+  },
+  "LJ049-0093": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ049-0093.wav",
+    "length": 7.541995464852608,
+    "words": "persons committing certain offenses including counterfeiting and certain frauds involving federal checks or securities"
+  },
+  "LJ032-0266": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ032-0266.wav",
+    "length": 3.2695238095238097,
+    "words": "paul m stombaugh of the fbi laboratory"
+  },
+  "LJ016-0121": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ016-0121.wav",
+    "length": 8.168934240362812,
+    "words": "krapps walked at once into the yard and across to the female side where he found some of the washing still hanging out to dry"
+  },
+  "LJ038-0303": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ038-0303.wav",
+    "length": 9.585351473922902,
+    "words": "the commission has concluded that lee harvey oswald attempted to take the life of major general edwin a walker resigned u s army"
+  },
+  "LJ038-0253": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ038-0253.wav",
+    "length": 8.50562358276644,
+    "words": "he replied that he had buried it in the ground or hidden it in some bushes and that he also mentioned a railroad track in this connection"
+  },
+  "LJ019-0166": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ019-0166.wav",
+    "length": 3.8035827664399093,
+    "words": "those for trial and those sentenced for short terms or long"
+  },
+  "LJ031-0143": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ031-0143.wav",
+    "length": 6.3113378684807255,
+    "words": "and decided that there would be no release of the news of the presidents death until the vice president had left the hospital"
+  },
+  "LJ029-0015": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ029-0015.wav",
+    "length": 8.27342403628118,
+    "words": "the party itself saw an opportunity to raise funds by having the president speak at a political dinner eventually planned for austin"
+  },
+  "LJ009-0162": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ009-0162.wav",
+    "length": 5.812108843537415,
+    "words": "nevertheless after that date no person whatever was executed for this offense"
+  },
+  "LJ039-0095": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ039-0095.wav",
+    "length": 2.20140589569161,
+    "words": "zahm stated further quote"
+  },
+  "LJ001-0147": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ001-0147.wav",
+    "length": 5.986258503401361,
+    "words": "the position of the page on the paper should be considered if the book is to have a satisfactory look"
+  },
+  "LJ032-0229": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ032-0229.wav",
+    "length": 2.747074829931973,
+    "words": "this information enabled the commission to conclude"
+  },
+  "LJ043-0130": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ043-0130.wav",
+    "length": 3.5829931972789115,
+    "words": "and had been seen reading a foreign newspaper end quote"
+  },
+  "LJ048-0102": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ048-0102.wav",
+    "length": 8.842312925170068,
+    "words": "in particular the commission believes that the motorcade route selected by agent lawson upon the advice of agent in charge sorrels"
+  },
+  "LJ018-0295": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ018-0295.wav",
+    "length": 6.3113378684807255,
+    "words": "the fraud was rendered possible by the absence of a check usual in the united states"
+  },
+  "LJ047-0183": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ047-0183.wav",
+    "length": 5.127120181405895,
+    "words": "when asked what his next step would have been hosty replied quote"
+  },
+  "LJ030-0075": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ030-0075.wav",
+    "length": 2.863174603174603,
+    "words": "followed closely behind the presidents automobile"
+  },
+  "LJ047-0084": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ047-0084.wav",
+    "length": 3.095374149659864,
+    "words": "and his application was approved on the following day"
+  },
+  "LJ016-0223": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ016-0223.wav",
+    "length": 8.435963718820862,
+    "words": "capital convicts go to the gallows in their own clothing and not in prison dress unless the former is quite unfit to be worn"
+  },
+  "LJ027-0053": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ027-0053.wav",
+    "length": 9.318321995464853,
+    "words": "the most striking fact of similar structure among plants and among animals is the existence of a common general plan in any group"
+  },
+  "LJ027-0170": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ027-0170.wav",
+    "length": 9.910430839002268,
+    "words": "finally it loses the tail or rather its tail is absorbed and its material used in further development and it becomes a perfect frog"
+  },
+  "LJ004-0104": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ004-0104.wav",
+    "length": 4.860090702947846,
+    "words": "by the thirty one george the third c forty six s five"
+  },
+  "LJ016-0268": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ016-0268.wav",
+    "length": 3.5597732426303854,
+    "words": "the remarks heard amongst the crowd were of coarse approval"
+  },
+  "LJ031-0145": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ031-0145.wav",
+    "length": 7.797414965986395,
+    "words": "on the recommendation of the secret service agents vice president johnson decided to board the presidential airplane air force one"
+  },
+  "LJ011-0182": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ011-0182.wav",
+    "length": 4.256371882086168,
+    "words": "miss turner thus pressed consented to go on to gretna green"
+  },
+  "LJ034-0059": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ034-0059.wav",
+    "length": 9.2718820861678,
+    "words": "since other identifiable prints were developed on the cartons the commission requested that they be compared with the prints of the twelve warehouse employees"
+  },
+  "LJ019-0008": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ019-0008.wav",
+    "length": 5.127120181405895,
+    "words": "but no steps had been taken in parliament to enforce a better system of discipline"
+  },
+  "LJ022-0113": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ022-0113.wav",
+    "length": 3.9429024943310655,
+    "words": "to make a major attack upon the problem of unemployment"
+  },
+  "LJ034-0098": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ034-0098.wav",
+    "length": 9.53891156462585,
+    "words": "in the six to eight minute period before the motorcade arrived brennan saw a man leave and return to the window quote a couple of times end quote"
+  },
+  "LJ043-0045": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ043-0045.wav",
+    "length": 7.402675736961451,
+    "words": "he also said that he and his family got along well with marina oswald and enjoyed showing her american things"
+  },
+  "LJ037-0168": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ037-0168.wav",
+    "length": 4.802040816326531,
+    "words": "nicol differed with the fbi experts on one bullet taken from tippits body"
+  },
+  "LJ038-0213": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ038-0213.wav",
+    "length": 2.7586848072562358,
+    "words": "the last paragraph directed her to the jail"
+  },
+  "LJ015-0298": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ015-0298.wav",
+    "length": 5.788888888888889,
+    "words": "but while hardwicke was in communication with saward the bank was in communication with london"
+  },
+  "LJ048-0174": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ048-0174.wav",
+    "length": 7.518775510204081,
+    "words": "similar arrangements for a motorcade of ten miles including many blocks of tall commercial buildings is not practical"
+  },
+  "LJ006-0077": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ006-0077.wav",
+    "length": 8.4243537414966,
+    "words": "the fact was he did not keep the classification of prisoners on first arrival in his own hands nor even in that of his officers"
+  },
+  "LJ018-0191": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ018-0191.wav",
+    "length": 2.6193650793650796,
+    "words": "bob was therefore allowed to pass on"
+  },
+  "LJ019-0387": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ019-0387.wav",
+    "length": 6.125578231292517,
+    "words": "the prisons bill of eighteen seventy six contemplated the transfer of the prisons to government"
+  },
+  "LJ008-0080": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ008-0080.wav",
+    "length": 5.7424489795918365,
+    "words": "she was immediately tied by the neck to an iron bolt fixed near the top of the stake"
+  },
+  "LJ003-0288": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ003-0288.wav",
+    "length": 4.430521541950113,
+    "words": "the above mentioned report was ordered to be printed upon the ninth may"
+  },
+  "LJ043-0122": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ043-0122.wav",
+    "length": 10.014920634920635,
+    "words": "who had previously interviewed oswald saw him on television and heard a radio debate in which he engaged on august twenty one nineteen sixty three"
+  },
+  "LJ012-0026": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ012-0026.wav",
+    "length": 4.256371882086168,
+    "words": "with this capital he returned to london and set up as a fence"
+  },
+  "LJ012-0227": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ012-0227.wav",
+    "length": 5.312879818594104,
+    "words": "one that of the murder of the italian boy the other that of a boy unknown"
+  },
+  "LJ003-0135": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ003-0135.wav",
+    "length": 4.03578231292517,
+    "words": "she went up to the ward and found him lying down quote"
+  },
+  "LJ038-0003": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ038-0003.wav",
+    "length": 1.5048072562358277,
+    "words": "oswalds arrest"
+  },
+  "LJ032-0171": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ032-0171.wav",
+    "length": 5.0226303854875285,
+    "words": "and that this was the same shirt which oswald wore on the morning of the assassination"
+  },
+  "LJ040-0239": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ040-0239.wav",
+    "length": 6.822176870748299,
+    "words": "before the court took any action the oswalds left new york in january of nineteen fifty four"
+  },
+  "LJ006-0154": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ006-0154.wav",
+    "length": 6.949886621315192,
+    "words": "nothing was more prominently brought out by the inspectors than the inefficiency of the governor at that time mister cope"
+  },
+  "LJ034-0087": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ034-0087.wav",
+    "length": 7.32140589569161,
+    "words": "kaiser identified it as the clipboard which oswald had appropriated from him when oswald came to work at the depository"
+  },
+  "LJ015-0061": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ015-0061.wav",
+    "length": 5.092290249433106,
+    "words": "they both reproduced many of the features of the case of watts already described"
+  },
+  "LJ047-0125": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ047-0125.wav",
+    "length": 8.830702947845804,
+    "words": "in other words he committed no violation of the law by telling us something that wasn t true and unless this required further investigation at that time"
+  },
+  "LJ046-0099": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ046-0099.wav",
+    "length": 5.545079365079365,
+    "words": "thoroughly professional personnel using the best technical equipment that can be devised"
+  },
+  "LJ026-0063": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ026-0063.wav",
+    "length": 7.077596371882086,
+    "words": "the food supply of the higher plant like that of the animal is the source of the required matter and energy"
+  },
+  "LJ037-0091": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ037-0091.wav",
+    "length": 7.414285714285715,
+    "words": "barbara jeanette davis and virginia davis were sitting alongside each other when they made their positive identifications of oswald"
+  },
+  "LJ037-0170": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ037-0170.wav",
+    "length": 9.19061224489796,
+    "words": "but he agreed that because the other three bullets were mutilated he could not determine if they had been fired from the same weapon as the test bullets"
+  },
+  "LJ016-0333": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ016-0333.wav",
+    "length": 4.1867120181405895,
+    "words": "from clerkenwell prison by which many persons lost their lives"
+  },
+  "LJ026-0037": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ026-0037.wav",
+    "length": 4.175102040816326,
+    "words": "it will no doubt occur to the reader that on the theory of evolution"
+  },
+  "LJ042-0064": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ042-0064.wav",
+    "length": 9.109342403628117,
+    "words": "the entry in his self styled quote historic diary end quote for october twenty one nineteen fifty nine reports quote"
+  },
+  "LJ021-0109": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ021-0109.wav",
+    "length": 3.791972789115646,
+    "words": "whether the methods and policies adopted in the emergency"
+  },
+  "LJ028-0403": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ028-0403.wav",
+    "length": 2.015646258503401,
+    "words": "the walls of the houses are built of them"
+  },
+  "LJ041-0182": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ041-0182.wav",
+    "length": 9.817551020408164,
+    "words": "and believed that our government did not have quote too much to offer end quote but was not in favor of quote the communist way of life end quote"
+  },
+  "LJ048-0163": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ048-0163.wav",
+    "length": 7.832244897959184,
+    "words": "it has not been the practice of the secret service to make surveys or checks of buildings along the route of a presidential motorcade"
+  },
+  "LJ022-0131": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ022-0131.wav",
+    "length": 2.7122448979591836,
+    "words": "if you will help this can be done"
+  },
+  "LJ018-0151": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ018-0151.wav",
+    "length": 5.8933786848072565,
+    "words": "the police officers now taxed misess campbell with complicity and frightened her into collusion"
+  },
+  "LJ028-0167": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ028-0167.wav",
+    "length": 5.440589569160998,
+    "words": "in the one stood the palace of the kings surrounded by a wall of great strength and size"
+  },
+  "LJ034-0074": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ034-0074.wav",
+    "length": 8.737823129251701,
+    "words": "i discovered i left my cigarettes in my jacket pocket upstairs and i took the elevator back upstairs to get my jacket with my cigarettes in it end quote"
+  },
+  "LJ010-0315": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ010-0315.wav",
+    "length": 5.719229024943311,
+    "words": "and sold out to the amount here stated and without the knowledge of my partners"
+  },
+  "LJ044-0122": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ044-0122.wav",
+    "length": 4.9878004535147396,
+    "words": "i should always remain in the background i e underground end quote"
+  },
+  "LJ005-0114": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ005-0114.wav",
+    "length": 4.743990929705215,
+    "words": "in others the separation between the sexes consisted in a hanging curtain"
+  },
+  "LJ043-0082": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ043-0082.wav",
+    "length": 5.963038548752834,
+    "words": "and noted that oswalds verbal and clerical potential was quote outstanding end quote"
+  },
+  "LJ029-0185": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ029-0185.wav",
+    "length": 3.8848526077097505,
+    "words": "by vice president johnson during the nineteen sixty campaign"
+  },
+  "LJ019-0181": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ019-0181.wav",
+    "length": 7.832244897959184,
+    "words": "is an interesting document and shows that even at that date the government contemplated the erection of a model prison"
+  },
+  "LJ019-0154": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ019-0154.wav",
+    "length": 9.469251700680273,
+    "words": "if any disturbance reached his ears he reported the case to the governor who next morning visited the ward in fault and asked for the culprit"
+  },
+  "LJ039-0052": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ039-0052.wav",
+    "length": 4.825260770975056,
+    "words": "the commission concluded that the incident as described by marina oswald"
+  },
+  "LJ038-0248": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ038-0248.wav",
+    "length": 8.85392290249433,
+    "words": "was also identified by marina oswald as having been taken by her husband presumably in connection with the walker shooting"
+  },
+  "LJ033-0214": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ033-0214.wav",
+    "length": 5.359319727891156,
+    "words": "four carried the rifle into the depository building concealed in the bag"
+  },
+  "LJ028-0458": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ028-0458.wav",
+    "length": 9.132562358276644,
+    "words": "its outer part was about twenty four feet in thickness and its foundations as nebuchadnezzar said were carried down to the water level"
+  },
+  "LJ050-0224": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ050-0224.wav",
+    "length": 6.694467120181406,
+    "words": "one hundred forty five are proposed for the field offices to handle the increased volume of security investigations"
+  },
+  "LJ050-0038": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ050-0038.wav",
+    "length": 4.964580498866213,
+    "words": "in attempting to identify those individuals who might prove a danger to the president"
+  },
+  "LJ036-0071": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ036-0071.wav",
+    "length": 9.95687074829932,
+    "words": "in a reconstruction of this bus trip agents of the secret service and the fbi walked the seven blocks from the front entrance of the depository building"
+  },
+  "LJ016-0042": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ016-0042.wav",
+    "length": 10.003310657596371,
+    "words": "the condition of the stone surface just mentioned assisted him in this and he managed to get beyond the cistern to the railing below the chevaux de frise"
+  },
+  "LJ032-0093": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ032-0093.wav",
+    "length": 9.306712018140589,
+    "words": "but oswald had rented post office box three zero zero six one in new orleans on june three nineteen sixty three"
+  },
+  "LJ017-0187": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ017-0187.wav",
+    "length": 7.112426303854876,
+    "words": "her husband who came up to town would not allow a post mortem and again misess wilson escaped"
+  },
+  "LJ038-0232": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ038-0232.wav",
+    "length": 9.759501133786848,
+    "words": "marina oswald stated that when oswald returned home on the night of the walker shooting he told her that he had been planning the attempt for two months"
+  },
+  "LJ042-0052": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ042-0052.wav",
+    "length": 5.034240362811792,
+    "words": "i have always considered this country to be my own end quote"
+  },
+  "LJ010-0279": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ010-0279.wav",
+    "length": 8.586893424036282,
+    "words": "i shall mention briefly one more case in which however there was no murderous intent before i pass on to other crimes"
+  },
+  "LJ046-0043": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ046-0043.wav",
+    "length": 8.923582766439909,
+    "words": "as commander in chief of the armed forces he must maintain ultimate authority over the development and disposition of our military power"
+  },
+  "LJ043-0011": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ043-0011.wav",
+    "length": 9.68984126984127,
+    "words": "and attempted to help misess oswald particularly in various ways in general oswald did not like the members of the russian community"
+  },
+  "LJ018-0220": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ018-0220.wav",
+    "length": 4.198321995464853,
+    "words": "the old gentlemans signature to this deed of gift was a forgery"
+  },
+  "LJ027-0082": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ027-0082.wav",
+    "length": 7.959954648526077,
+    "words": "and any other series of organs of vertebrates would give the same evidence of fundamental resemblances homologies"
+  },
+  "LJ034-0148": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ034-0148.wav",
+    "length": 5.092290249433106,
+    "words": "in another interview with fbi agents on january seven nineteen sixty four"
+  },
+  "LJ046-0112": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ046-0112.wav",
+    "length": 5.417369614512472,
+    "words": "and requests to other agencies federal and local for useful information"
+  },
+  "LJ040-0080": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ040-0080.wav",
+    "length": 2.5729251700680273,
+    "words": "that situation however was short lived"
+  },
+  "LJ041-0147": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ041-0147.wav",
+    "length": 1.55124716553288,
+    "words": "interest in marxism"
+  },
+  "LJ037-0175": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ037-0175.wav",
+    "length": 3.9661224489795917,
+    "words": "therefore one cartridge case of this type was not recovered"
+  },
+  "LJ030-0136": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ030-0136.wav",
+    "length": 5.069070294784581,
+    "words": "end quote the president replied that is very obvious"
+  },
+  "LJ033-0013": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ033-0013.wav",
+    "length": 3.2230839002267575,
+    "words": "during october and november of nineteen sixty three"
+  },
+  "LJ017-0109": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ017-0109.wav",
+    "length": 5.5915192743764175,
+    "words": "while the muscles of the fingers were tightly clenched not open as usual in a corpse"
+  },
+  "LJ038-0122": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ038-0122.wav",
+    "length": 6.0443083900226755,
+    "words": "on sunday morning november twenty four oswald denied that he knew a j hidell"
+  },
+  "LJ017-0131": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ017-0131.wav",
+    "length": 7.251746031746031,
+    "words": "even when the high sheriff had told him there was no possibility of a reprieve and within a few hours of execution"
+  },
+  "LJ037-0136": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ037-0136.wav",
+    "length": 8.27342403628118,
+    "words": "patterson when asked later to confirm his identification by affidavit said he did not recall having been shown the photograph"
+  },
+  "LJ005-0104": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ005-0104.wav",
+    "length": 3.1185941043083902,
+    "words": "the progress of improvement was certainly extremely slow"
+  },
+  "LJ045-0135": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ045-0135.wav",
+    "length": 9.875600907029478,
+    "words": "but did not issue any such warning or suggest that marina oswald defect from the soviet union and remain in the united states under fbi protection"
+  },
+  "LJ019-0251": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ019-0251.wav",
+    "length": 7.17047619047619,
+    "words": "yet this principle as the committee pointed out must now be accepted as the foundation of prison discipline"
+  },
+  "LJ001-0121": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ001-0121.wav",
+    "length": 6.380997732426303,
+    "words": "in reading the modern figures the eyes must be strained before the reader can have any reasonable assurance"
+  },
+  "LJ011-0122": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ011-0122.wav",
+    "length": 7.541995464852608,
+    "words": "his funds which he pretended came to him with a rich wife were really the proceeds of frauds upon the bank of england"
+  },
+  "LJ013-0168": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ013-0168.wav",
+    "length": 4.593061224489796,
+    "words": "that lord william russell had committed suicide was at once declared impossible"
+  },
+  "LJ014-0096": {
+    "wav": "{data_root}/LJSpeech-1.1/wavs_16khz/LJ014-0096.wav",
+    "length": 9.213832199546486,
+    "words": "and at their request two police officers were sent to bermondsey to inquire for him at the mannings with whom it was well known that he was very intimate"
+  }
+}

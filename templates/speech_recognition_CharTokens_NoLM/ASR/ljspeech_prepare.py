@@ -36,9 +36,13 @@ def get_uttid(wav_p):
 
 def append_str_to_filename(path, string):
     filename_no_ext, ext = path.split("/")[-1].split('.')
+
+    if string != "":
+        string = f"_{string}"
+
     return os.path.join(
         os.path.dirname(path),
-        filename_no_ext + f"_{string}" + "." + ext
+        filename_no_ext + string + "." + ext
     )
 
 def prepare_ljspeech(
