@@ -1,0 +1,43 @@
+# Generated 2023-02-03 from:
+# /disk/nfs/ostrom/s1785140/speechbrain/templates/speech_recognition_CharTokens_NoLM/Tokenizer/tokenizer.yaml
+# yamllint disable
+# ############################################################################
+# Tokenizer: subword BPE tokenizer with unigram 1K
+# Training: Mini-LibriSpeech
+# Authors:  Abdel Heba 2021
+#           Mirco Ravanelli 2021
+# ############################################################################
+
+
+# Set up folders for reading from and writing to
+data_folder: ../data
+output_folder: ./save
+
+# Path where data-specification files are stored
+corpus_name: ljspeech
+#corpus_name: mini_librispeech
+uttids_to_excl: ../data/respeller_uttids.txt # used to specify the uttids from which train valid and test splits are created, if none will use all uttids in corpus
+valid_percent: 0.05 # what proportion of data is allocated to validation set
+test_percent: 0.05 # what proportion of data is allocated to test set
+train_annotation: ../train_ljspeech.json
+valid_annotation: ../valid_ljspeech.json
+test_annotation: ../test_ljspeech.json
+text_cleaners: # list of text cleaners, applied in order from top to bottom
+- lowercase_no_punc     # normalisation that is applied to text transcription of corpus
+
+# Tokenizer parameters
+token_type: char  # ["unigram", "bpe", "char"]
+token_output: 0
+character_coverage: 1.0
+annotation_read: words # field to read
+
+# Tokenizer object
+tokenizer: !name:speechbrain.tokenizers.SentencePiece.SentencePiece
+  model_dir: ./save
+  vocab_size: 0
+  annotation_train: ../train_ljspeech.json
+  annotation_read: words
+  model_type: char               # ["unigram", "bpe", "char"]
+  character_coverage: 1.0
+  annotation_list_to_check: [../train_ljspeech.json, ../valid_ljspeech.json]
+  annotation_format: json
