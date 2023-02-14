@@ -95,6 +95,8 @@ class ASR(sb.Brain):
         """
         # We first move the batch to the appropriate device.
         batch = batch.to(self.device)
+
+        # NOTE CAREFUL!!! self.feat_lens are not mel lens but ratios from 0.0 to 1.0 (ratio of wav len to max wav len)
         feats, self.feat_lens = self.prepare_features(stage, batch.sig, batch.wav_path)
         # tokens_bos, _ = self.prepare_tokens(stage, batch.tokens_bos)
 
@@ -178,6 +180,8 @@ class ASR(sb.Brain):
 
         if dump_feats:
             dump_feats_to_dir(feats, wav_paths, self.hparams.dump_feats_dir)
+
+        print(f"DEBUG INSIDE PREPARE FEATURES, {feats.shape=} {wav_lens.shape=}")
 
         return feats, wav_lens
 
@@ -367,13 +371,16 @@ def dataio_prepare(hparams):
     # Define audio pipeline. In this case, we simply read the path contained
     # in the variable wav with the audio reader.
     @sb.utils.data_pipeline.takes("wav")
-    @sb.utils.data_pipeline.provides("sig", "wav_path")
+    @sb.utils.data_pipeline.provides("sig", "wav_path", "utt_id")
     def audio_pipeline(wav_path):
         """Load the audio signal. This is done on the CPU in the `collate_fn`."""
         sig = sb.dataio.dataio.read_audio(wav_path)
         yield sig
 
         yield wav_path
+
+        utt_id = wav_path.split("/")[-1].split(".")[0]
+        yield utt_id
 
     # Define text processing pipeline. We start from the raw text and then
     # encode it using the tokenizer. The tokens with BOS are used for feeding
@@ -420,6 +427,7 @@ def dataio_prepare(hparams):
                 "id",
                 "sig",
                 "wav_path",
+                "utt_id",
                 "words",
                 "tokens",
             ],
