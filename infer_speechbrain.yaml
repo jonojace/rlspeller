@@ -82,7 +82,7 @@ train_logger: !new:speechbrain.utils.train_logger.FileTrainLogger
 # Training parameters
 number_of_epochs: 100
 number_of_ctc_epochs: !ref <number_of_epochs>
-batch_size: 8
+batch_size: 2
 lr: 1.0
 ctc_weight: 1.0
 sorting: ascending
@@ -145,6 +145,9 @@ temperature_lm: 1.25
 # if it gets interrupted at any point.
 epoch_counter: !new:speechbrain.utils.epoch_loop.EpochCounter
     limit: !ref <number_of_epochs>
+
+# For RL speller training
+use_mel_inputs: True
 
 # Feature extraction
 compute_features: !new:speechbrain.lobes.features.Fbank
