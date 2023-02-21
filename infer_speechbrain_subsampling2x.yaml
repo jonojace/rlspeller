@@ -23,9 +23,9 @@ __set_seed: !apply:torch.manual_seed [!ref <seed>]
 # It allows you to read the data much faster without slowing down the shared filesystem.
 
 wandb_project_name: asr_models
-exp_name: CRDNN_CHAR_LJSpeech_halved # 4x subsampling
+# exp_name: CRDNN_CHAR_LJSpeech_halved # 4x subsampling
 # exp_name: CRDNN_CHAR_LJSpeech_halved_subsampling1x
-# exp_name: CRDNN_CHAR_LJSpeech_halved_subsampling2x
+exp_name: CRDNN_CHAR_LJSpeech_halved_subsampling2x
 # exp_name: test_dump_feats
 
 # data_folder: ../data # In this case, data will be automatically downloaded here.
@@ -119,7 +119,7 @@ cnn_blocks: 2
 cnn_channels: (128, 256)
 inter_layer_pooling_size: (2, 2)
 cnn_kernelsize: (3, 3)
-time_pooling_size: 4
+time_pooling_size: 2
 rnn_class: !name:speechbrain.nnet.RNN.LSTM
 rnn_layers: 2
 rnn_neurons: 512
