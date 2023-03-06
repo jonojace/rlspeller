@@ -78,3 +78,5 @@ templates/speech_recognition_CharTokens_NoLM/ASR/__pycache__/train.cpython-38.py
 .ipynb_checkpoints/dev_rlspeller-checkpoint.ipynb
 .ipynb_checkpoints/wordalign_features-checkpoint.ipynb
 .ipynb_checkpoints/*
+
+pretrained_models/*
