@@ -80,3 +80,9 @@ templates/speech_recognition_CharTokens_NoLM/ASR/__pycache__/train.cpython-38.py
 .ipynb_checkpoints/*
 
 pretrained_models/*
+
+caches/*
+caches/*.pkl
+caches/spelling2tts_mel_cache.pkl
+caches/spelling2tts_mfcc_cache.pkl
+caches/spelling2vocoded_audio_cache.pkl
