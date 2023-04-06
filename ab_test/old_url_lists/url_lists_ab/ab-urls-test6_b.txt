@@ -1,0 +1,78 @@
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-speechcode-input-us-fem/1-how is <afghan> pronounced-p330_400|1.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-speechcode-input-us-fem/2-how is <agenda> pronounced-p362_372|1.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-speechcode-input-us-fem/3-how is <alcohol> pronounced-p303_284|1.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-speechcode-input-us-fem/4-how is <augusta> pronounced-p308_116|1.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-speechcode-input-us-fem/5-how is <ballet> pronounced-p329_029|1.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-speechcode-input-us-fem/6-how is <bevan> pronounced-p329_151|1.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-speechcode-input-us-fem/7-how is <bonus> pronounced-p329_244|1.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-speechcode-input-us-fem/8-how is <borderer> pronounced-p361_055|1.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-speechcode-input-us-fem/9-how is <bother> pronounced-p341_059|1.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-speechcode-input-us-fem/10-how is <breakthrough> pronounced-p294_305|1.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-speechcode-input-us-fem/11-how is <carcasses> pronounced-p341_155|1.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-speechcode-input-us-fem/12-how is <catalogue> pronounced-p305_030|1.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-speechcode-input-us-fem/13-how is <chaotic> pronounced-p312_411|1.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/14 vanillatts-chirac.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/15 vanillatts-cinema.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/16 vanillatts-colour.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/17 vanillatts-comedy.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/18 vanillatts-contacted.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/19 vanillatts-debut.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/20 vanillatts-derby.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/21 vanillatts-devil.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/22 vanillatts-dialogue.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/23 vanillatts-disaster.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/24 vanillatts-dunfermline.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/25 vanillatts-elan.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/26 vanillatts-elgin.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/27-how is excel pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/28-how is fatigue pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/29-how is fiasco pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/30-how is grandson pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/31-how is hague pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/32-how is haul pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/33-how is hussein pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/34-how is iain pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/35-how is intriguing pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/36-how is inverness pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/37-how is ira pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/38-how is iran pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/39-how is iraqi pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/40 vanillatts-islam.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/41 vanillatts-kabul.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/42 vanillatts-kilmarnock.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/43 vanillatts-lifestyle.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/44 vanillatts-lockerbie.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/45 vanillatts-mcneill.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/46 vanillatts-miracle.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/47 vanillatts-mobile.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/48 vanillatts-morale.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/49 vanillatts-ms.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/50 vanillatts-orchestra.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/51 vanillatts-pakistan.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/52 vanillatts-pals.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/53 vanillatts-parole.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/54 vanillatts-paterson.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/55 vanillatts-petrol.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/56 vanillatts-politics.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/57 vanillatts-pr.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/58 vanillatts-queue.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/59 vanillatts-rally.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/60 vanillatts-recipe.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/61 vanillatts-referee.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/62 vanillatts-rehearsal.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/63 vanillatts-restaurant.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/64 vanillatts-rugby.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/vanillatts-grapheme-input/65 vanillatts-savour.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/66-how is sean pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/67-how is subtle pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/68-how is superbly pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/69-how is tiger pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/70-how is titanic pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/71-how is tough pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/72-how is trio pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/73-how is unearthing pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/74-how is uninjured pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/75-how is vaccines pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/76-how is video pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/77-how is zimbabwe pronounced.wav
+test6_b https://jonojace.github.io/IS22-speech-audio-corrector-samples/SAC-grapheme-input/78-how is zone pronounced.wav

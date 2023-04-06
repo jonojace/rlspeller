@@ -86,3 +86,7 @@ caches/*.pkl
 caches/spelling2tts_mel_cache.pkl
 caches/spelling2tts_mfcc_cache.pkl
 caches/spelling2vocoded_audio_cache.pkl
+
+listening_tests/*
+notebooks_with_samples/*
+results/*
